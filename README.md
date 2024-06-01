@@ -1,1 +1,1 @@
-![Página do Layout](images/img1.png)>
+![Página do Layout](images/Paginadolayout.png)>
